@@ -1,0 +1,84 @@
+body {
+    background-color: #262524;
+    color: white;
+}
+.button1 {
+    margin: 0;
+    padding: 0;
+    border: none;
+    background-color: rgba(250, 50, 50, 0.952);
+    text-align: center;
+    font-family: 'arial';
+    position: absolute;
+    color: white;
+    top: 2%;
+    left: 32%;
+    width: 7%;
+    height: 7%;
+    font-size: 1em; 
+}
+.button1:hover {
+    background-color: rgba(250, 50, 50, 0.568);
+}
+.button2 {
+    margin: 0;
+    padding: 0;
+    border: none;
+    background-color: rgba(250, 50, 50, 0.952);
+    text-align: center;
+    font-family: 'arial';
+    position: absolute;
+    color: white;
+    top: 2%;
+    left: 46%;
+    width: 7%;
+    height: 7%;
+    font-size: 1em; 
+}
+.button2:hover {
+    background-color: rgba(250, 50, 50, 0.568);
+}
+.button3 {
+    margin: 0;
+    padding: 0;
+    border: none;
+    background-color: rgba(250, 50, 50, 0.952);
+    text-align: center;
+    font-family: 'arial';
+    position: absolute;
+    color: white;
+    top: 2%;
+    left: 60%;
+    width: 7%;
+    height: 7%;
+    font-size: 1em; 
+}
+.button3:hover {
+    background-color: rgba(250, 50, 50, 0.568);
+}
+.text1 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'arial';
+    position: absolute;
+    color: white;
+    top: 40%;
+    left: 30%;
+    width: 40%;
+    height: 20%;
+    font-size: 4em;
+}
+.text2 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'arial';
+    position: absolute;
+    color: white;
+    top: 70%;
+    left: 30%;
+    width: 40%;
+    height: 20%;
+    font-size: 2em;
+}
